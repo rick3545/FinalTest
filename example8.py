@@ -7,7 +7,7 @@
 ####
 
 team_name = 'E8'
-strategy_name = 'Collude 90% unless betrayed within last 10 rounds.'
+strategy_name = 'Collude 90% unless betrayed within last 10 rounds'
 strategy_description = '''\
 Betray if ever betrayed.
 If I haven't been betrayed yet, I'll betray starting with the 100th round.

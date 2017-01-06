@@ -7,7 +7,7 @@
 ####
 
 team_name = 'E2'
-strategy_name = 'Alternate'
+strategy_name = 'Alternate.'
 strategy_description = 'Collude, then alternate.'
     
 def move(my_history, their_history, my_score, their_score):
