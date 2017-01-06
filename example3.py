@@ -7,7 +7,7 @@
 ####
 
 team_name = 'E3'
-strategy_name = 'Collude but retaliate'
+strategy_name = 'Collude but retaliate.'
 strategy_description = '''\
 Collude first round. Collude, except in a round after getting 
 a severe punishment.'''
